@@ -1,0 +1,7 @@
+C:\Users\Nieves\source\repos\polimorismo\polimorismo\bin\Debug\polimorismo.exe.config
+C:\Users\Nieves\source\repos\polimorismo\polimorismo\bin\Debug\polimorismo.exe
+C:\Users\Nieves\source\repos\polimorismo\polimorismo\bin\Debug\polimorismo.pdb
+C:\Users\Nieves\source\repos\polimorismo\polimorismo\obj\Debug\polimorismo.csprojAssemblyReference.cache
+C:\Users\Nieves\source\repos\polimorismo\polimorismo\obj\Debug\polimorismo.csproj.CoreCompileInputs.cache
+C:\Users\Nieves\source\repos\polimorismo\polimorismo\obj\Debug\polimorismo.exe
+C:\Users\Nieves\source\repos\polimorismo\polimorismo\obj\Debug\polimorismo.pdb
