@@ -1,0 +1,11 @@
+C:\Users\Nieves\source\repos\clases_vb\clases_vb\obj\Debug\clases_vb.vbprojAssemblyReference.cache
+C:\Users\Nieves\source\repos\clases_vb\clases_vb\obj\Debug\clases_vb.Resources.resources
+C:\Users\Nieves\source\repos\clases_vb\clases_vb\obj\Debug\clases_vb.vbproj.GenerateResource.cache
+C:\Users\Nieves\source\repos\clases_vb\clases_vb\obj\Debug\clases_vb.vbproj.CoreCompileInputs.cache
+C:\Users\Nieves\source\repos\clases_vb\clases_vb\bin\Debug\clases_vb.exe.config
+C:\Users\Nieves\source\repos\clases_vb\clases_vb\bin\Debug\clases_vb.exe
+C:\Users\Nieves\source\repos\clases_vb\clases_vb\bin\Debug\clases_vb.pdb
+C:\Users\Nieves\source\repos\clases_vb\clases_vb\bin\Debug\clases_vb.xml
+C:\Users\Nieves\source\repos\clases_vb\clases_vb\obj\Debug\clases_vb.exe
+C:\Users\Nieves\source\repos\clases_vb\clases_vb\obj\Debug\clases_vb.xml
+C:\Users\Nieves\source\repos\clases_vb\clases_vb\obj\Debug\clases_vb.pdb
