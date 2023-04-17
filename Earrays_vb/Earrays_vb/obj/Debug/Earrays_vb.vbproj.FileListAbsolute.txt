@@ -1,0 +1,11 @@
+C:\Users\Nieves\source\repos\Earrays_vb\Earrays_vb\bin\Debug\Earrays_vb.exe.config
+C:\Users\Nieves\source\repos\Earrays_vb\Earrays_vb\bin\Debug\Earrays_vb.exe
+C:\Users\Nieves\source\repos\Earrays_vb\Earrays_vb\bin\Debug\Earrays_vb.pdb
+C:\Users\Nieves\source\repos\Earrays_vb\Earrays_vb\bin\Debug\Earrays_vb.xml
+C:\Users\Nieves\source\repos\Earrays_vb\Earrays_vb\obj\Debug\Earrays_vb.vbprojAssemblyReference.cache
+C:\Users\Nieves\source\repos\Earrays_vb\Earrays_vb\obj\Debug\Earrays_vb.Resources.resources
+C:\Users\Nieves\source\repos\Earrays_vb\Earrays_vb\obj\Debug\Earrays_vb.vbproj.GenerateResource.cache
+C:\Users\Nieves\source\repos\Earrays_vb\Earrays_vb\obj\Debug\Earrays_vb.vbproj.CoreCompileInputs.cache
+C:\Users\Nieves\source\repos\Earrays_vb\Earrays_vb\obj\Debug\Earrays_vb.exe
+C:\Users\Nieves\source\repos\Earrays_vb\Earrays_vb\obj\Debug\Earrays_vb.xml
+C:\Users\Nieves\source\repos\Earrays_vb\Earrays_vb\obj\Debug\Earrays_vb.pdb
